@@ -39,8 +39,6 @@ Logistic Regression
 - Accuracy of Decision Tree: 0.9998
 - Accuracy of Random Forest: 0.9999
 
-![Model Comparison](model_comparison.png)
-
 ## Conclusion
 The Random Forest model performed the best with the highest accuracy. All models achieved high accuracy, demonstrating their effectiveness in detecting fraudulent credit card transactions.
 
